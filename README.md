@@ -17,9 +17,11 @@ Using Toronto neighborhood Wikipedia data, we are going to explore, segment, and
 ![PostalCode_Neighborhood](https://github.com/abhijithr94/Coursera_Capstone/blob/main/Results/PostalCode_Neighborhood.PNG)
 
 4. Using .shape to display the size of the dataframe:
+
 ![Dataframe_Size](https://github.com/abhijithr94/Coursera_Capstone/blob/main/Results/Dataframe_Size.PNG)
 
 5. Adding in latitude and longitude to the dataframe:
+
 ![Geocoder_Location](https://github.com/abhijithr94/Coursera_Capstone/blob/main/Results/Geocoder_Location.PNG)
 
 ### Map visualization and K-Means Clustering
