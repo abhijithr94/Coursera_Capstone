@@ -1,4 +1,4 @@
-# IBM Data Science Capstone
+# __IBM Data Science Capstone__
 
 ## Introduction
 
