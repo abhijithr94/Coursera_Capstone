@@ -12,7 +12,7 @@ Using Toronto neighborhood Wikipedia data, we are going to explore, segment, and
 
 1. Using BeautifulSoup package to parse the Wikipedia html
 2. After clean up, the dataframe will consist of three columns: PostalCode, Borough, and Neighborhood
-![PostalCode_Neighborhood](Coursera_Capstone/Results/PostalCode_Neighborhood.PNG)
+![PostalCode_Neighborhood](https://github.com/abhijithr94/Coursera_Capstone/blob/main/Results/PostalCode_Neighborhood.PNG)
 
 3. More than one neighborhood can exist in one postal code area, hence combining them into one row separated with a comma
 4. Using .shape to display the size of the dataframe
