@@ -17,9 +17,11 @@ Using Toronto neighborhood Wikipedia data, we are going to explore, segment, and
 3. More than one neighborhood can exist in one postal code area, hence combining them into one row separated with a comma
 4. Using .shape to display the size of the dataframe
 5. Adding in latitude and longitude to the dataframe
-6. Segmenting Toronto using Foursquare API
+
+### Map visualization and K-Means Clustering
+1. Segmenting Toronto using Foursquare API
 	- Displaying a map of Toronto Neighborhoods
 	- Displaying a map of Toronto Borough
-7. Clustering Toronto using K-Means
+2. Clustering Toronto using K-Means
 	- Displaying a map of the 5 clusters created
 	- The five clusters shown in the map above
