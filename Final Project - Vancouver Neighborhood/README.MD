@@ -25,5 +25,7 @@ The postal codes shown in this site are the ones for British Columbia, these wil
 With the help of Postal Code Database, the following file in CSV will be then transformed into a dataframe for further analysis
 	
 
-### Foursquare API - 
+### Foursquare API -
+	https://developer.foursquare.com/
+	
 Using this and my API credentials to explore the various venues in and around Vancouver
