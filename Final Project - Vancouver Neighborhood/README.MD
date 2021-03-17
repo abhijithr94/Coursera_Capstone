@@ -14,15 +14,15 @@ Seeing the popularity of Indian food in Vancouver, the objective of the project 
 ## 3. Overview of Data
 This project will use Vancouver neighborhood data, Geolocation of Vancouver and Foursquare API to figure out which neighborhood will be an ideal location to open an Indian restaurant.
 
-###Vancouver Neighborhood Data - From Wikipedia - 
+### Vancouver Neighborhood Data - From Wikipedia - 
 	https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_V
 	
 The postal codes shown in this site are the ones for British Columbia, these will be narrowed down to only the ones within the city of Vancouver
 
-###Geolocation of Vancouver - Will be determined via the Geocoder Package. 
+### Geolocation of Vancouver - Will be determined via the Geocoder Package. 
 	https://www.serviceobjects.com/blog/free-zip-code-and-postal-code-database-with-geocoordinates/
 	
 With the help of Postal Code Database, the following file in CSV will be then transformed into a dataframe for further analysis
 	
 
-###Foursquare API - Using this to explore the various venues in and around Vancouver
+### Foursquare API - Using this to explore the various venues in and around Vancouver
